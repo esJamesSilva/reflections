@@ -2,3 +2,8 @@ What happens when you initialize a repository? Why do you need to do it?
 
 It create the directory .git which have files used by git to register the commits nexts
 becouse git create  the folder .git
+
+How is the staging area different from the working directory and the repository? what value do you think it offers?
+the staging area is a area that let indicate that files going being checkout together.
+The value that offers is that let ckeckout join.
+
