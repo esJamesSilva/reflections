@@ -1,0 +1,37 @@
+How did viewing a diff between two versions of a file
+help you see the bug that was introduced?
+
+I see characters > or < indicate me the differents
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+I don't know Team server, maybe
+
+What do you thing are the pros and cons of manually choosing when to create commit,
+like you do in Git, vs having versions automatically saved, like Gooogle Docs does?
+
+Pros: I decide when save my changes, I record better the chancee. each changing has a pourpose
+The record history is more secure and useful
+
+Cons: If it happen a off energy changes lose, I have not think in save my work
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit while others,
+like Google Docs, treat each file separately?
+
+It is good beacouse a project is integrated in parts that they need corretly en one change a other change, it systems of version control safe that all files in a project is correctly.
+
+How can you use the commands git log and git diff to view the history of files?
+
+puedo utilizar git log para ver los commits del repositorio ya que esto lo muestra ordenado por defecto anterior a actual, agregando git log el parametro --stat me permite ver la totalidad de lineas eliminadas y agregadas esto es muy util.
+
+user git diff me permite compara dos commits y de esta forma determinar que cambio que archivos cambiaron , se debe ingresar el commit posterior al commit que quiero analizar por que el posterior me dice como termino el archivo y el que quiero(fecha mas vieja) me dice como inicio, que lineas se eliminaron
+
+how might using version control make you more confident to make changes that could break something?
+
+Maybe each group changes do commit , maybe too we doing test on the part of code that changing when it test is work fine then if i do commit
+
+How do you want to use Git?
+I want to use Git in my projects the web development and web design.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+I create a test project for practice Git or something problem to practice.
