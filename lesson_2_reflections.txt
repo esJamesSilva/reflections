@@ -7,3 +7,6 @@ How is the staging area different from the working directory and the repository?
 the staging area is a area that let indicate that files going being checkout together.
 The value that offers is that let ckeckout join.
 
+
+How can you use the staging area to make sure you have one commit per logical change?
+Add the file to stage area and commit later.
