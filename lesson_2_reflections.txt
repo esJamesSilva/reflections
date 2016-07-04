@@ -10,3 +10,6 @@ The value that offers is that let ckeckout join.
 
 How can you use the staging area to make sure you have one commit per logical change?
 Add the file to stage area and commit later.
+
+What are some situations when branches would be helpful in keeping you history organized? How would branches help?
+When I want to separte projects or when I want try news features
