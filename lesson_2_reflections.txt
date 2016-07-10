@@ -13,3 +13,6 @@ Add the file to stage area and commit later.
 
 What are some situations when branches would be helpful in keeping you history organized? How would branches help?
 When I want to separte projects or when I want try news features
+
+How do the diagrams help you visualize the branch structure?
+Me ayudan a entender el flujo de cambios realizados y como funciona el sistema de commits en git
