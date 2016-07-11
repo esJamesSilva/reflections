@@ -16,3 +16,6 @@ When I want to separte projects or when I want try news features
 
 How do the diagrams help you visualize the branch structure?
 Me ayudan a entender el flujo de cambios realizados y como funciona el sistema de commits en git
+
+What is the result of merging two branches together? why do we represent it in the diagram the way do?
+la union de los cambios en una de las branch por que se base en dos branches para hacerlo.
