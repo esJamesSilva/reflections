@@ -3,3 +3,11 @@ When I want to share my projects with others persons
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository ?
 More control in changes.
+
+Describe the differences between forks, clones, and branches. when would you use one instead of another?.
+
+forks: copiar un repositorio de github directamente, y sirve para tener una version propia de un repositorio en particular.
+
+clones: it use to download a repositry in my pc. so i work off line the repository.
+
+branches: brances use to diveded a repository in parts maybe experimentals branch of new features or changes of version.
